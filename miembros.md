@@ -24,3 +24,4 @@
 22. Deadshot
 23. Scarecrow
 24. El Pinguino
+25. Magneto
